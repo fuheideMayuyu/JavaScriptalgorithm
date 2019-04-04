@@ -19,3 +19,4 @@
 [12.截断数组](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/src/12.%E6%88%AA%E6%96%AD%E6%95%B0%E7%BB%84.md)<br/>
 [13.比较字符串](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/src/13.%E6%AF%94%E8%BE%83%E5%AD%97%E7%AC%A6%E4%B8%B2.md)<br/>
 [14.过滤数组假值](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/src/14.%E8%BF%87%E6%BB%A4%E6%95%B0%E7%BB%84%E5%81%87%E5%80%BC.md)<br/>
+[15.摧毁数组](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/src/15.%E6%91%A7%E6%AF%81%E6%95%B0%E7%BB%84.md)<br/>

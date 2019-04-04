@@ -17,4 +17,4 @@
 [10.截断字符串](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/src/10.%E6%88%AA%E6%96%AD%E5%AD%97%E7%AC%A6%E4%B8%B2.md)<br/>
 [11.猴子吃香蕉, 分割数组](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/src/11.%E7%8C%B4%E5%AD%90%E5%90%83%E9%A6%99%E8%95%89%2C%20%E5%88%86%E5%89%B2%E6%95%B0%E7%BB%84.md)<br/>
 [12.截断数组](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/src/12.%E6%88%AA%E6%96%AD%E6%95%B0%E7%BB%84.md)<br/>
-[12.比较字符串](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/src/12.%E6%88%AA%E6%96%AD%E6%95%B0%E7%BB%84.md)<br/>
+[13.比较字符串](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/src/13.%E6%AF%94%E8%BE%83%E5%AD%97%E7%AC%A6%E4%B8%B2.md)<br/>

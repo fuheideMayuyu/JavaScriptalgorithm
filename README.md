@@ -28,4 +28,5 @@
 [19.罗马数字转换器](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/FreeCodeCamp/19.%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%8D%A2%E5%99%A8.md?1554694878334)<br/>
 [20.寻找缺失的字母](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/FreeCodeCamp/20.%E5%AF%BB%E6%89%BE%E7%BC%BA%E5%A4%B1%E7%9A%84%E5%AD%97%E6%AF%8D.md)<br/>
 [21.DNA配对](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/FreeCodeCamp/21.DNA%E9%85%8D%E5%AF%B9.md)<br/>
-[21.儿童黑话](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/FreeCodeCamp/21.DNA%E9%85%8D%E5%AF%B9.md)<br/>
+[22.儿童黑话](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/FreeCodeCamp/22.%E5%84%BF%E7%AB%A5%E9%BB%91%E8%AF%9D.md)<br/>
+[23.句中查找替换](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/FreeCodeCamp/22.%E5%84%BF%E7%AB%A5%E9%BB%91%E8%AF%9D.md)<br/>

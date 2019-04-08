@@ -21,3 +21,4 @@
 [14.过滤数组假值](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/src/14.%E8%BF%87%E6%BB%A4%E6%95%B0%E7%BB%84%E5%81%87%E5%80%BC.md)<br/>
 [15.摧毁数组](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/src/15.%E6%91%A7%E6%AF%81%E6%95%B0%E7%BB%84.md)<br/>
 [16.数组排序并找出元素索引](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/src/16.%E6%95%B0%E7%BB%84%E6%8E%92%E5%BA%8F%E5%B9%B6%E6%89%BE%E5%87%BA%E5%85%83%E7%B4%A0%E7%B4%A2%E5%BC%95.md)<br/>
+[17.给定范围内的数字总和](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/src/16.%E6%95%B0%E7%BB%84%E6%8E%92%E5%BA%8F%E5%B9%B6%E6%89%BE%E5%87%BA%E5%85%83%E7%B4%A0%E7%B4%A2%E5%BC%95.md)<br/>

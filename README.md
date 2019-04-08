@@ -30,4 +30,4 @@
 [21.DNA配对](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/FreeCodeCamp/21.DNA%E9%85%8D%E5%AF%B9.md)<br/>
 [22.儿童黑话](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/FreeCodeCamp/22.%E5%84%BF%E7%AB%A5%E9%BB%91%E8%AF%9D.md)<br/>
 [23.句中查找替换](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/FreeCodeCamp/23.%E5%8F%A5%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%9B%BF%E6%8D%A2.md)<br/>
-[24.找出对象包含的特定键值对](https://github.com/fuheideMayuyu/JavaScriptalgorithm/blob/master/FreeCodeCamp/24.%E6%89%BE%E5%87%BA%E5%AF%B9%E8%B1%A1%E5%8C%85%E5%90%AB%E7%9A%84%E7%89%B9%E5%AE%9A%E9%94%AE%E5%80%BC%E5%AF%B9.md)<br/>
+[24.找出对象包含的特定键值对](../FreeCodeCamp/24.%E6%89%BE%E5%87%BA%E5%AF%B9%E8%B1%A1%E5%8C%85%E5%90%AB%E7%9A%84%E7%89%B9%E5%AE%9A%E9%94%AE%E5%80%BC%E5%AF%B9.md)<br/>
